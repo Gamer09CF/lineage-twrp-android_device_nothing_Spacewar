@@ -1,5 +1,5 @@
 # Android device tree for Nothing A063 (Spacewar)
-# Credits to SeaUbuntu's TWRP device tree generator
+# Credits to SebaUbuntu's TWRP device tree generator
 ```
 #
 # Copyright (C) 2025 The Android Open Source Project
